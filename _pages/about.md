@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-Welcome to my homepage! I am a Ph.D. candidate in Engineering Science at [Harvard School of Engineering and Applied Sciences](https://www.seas.harvard.edu/), fortunate to be advised by [Prof. Michael Lingzhi Li](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1432015). Prior to that, I obtained my Bachelor's degree in Statistics from the [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC), where I had the privilege of being advised by [Prof. Yanran Wang](http://www.yanranwang.com) and the opportunity to work with [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang). I was honored to receive the [41st Guo Moruo Scholarship](https://baike.baidu.com/item/郭沫若奖学金/3072621), the highest honor for USTC undergraduates.
+Welcome to my homepage! I am a Ph.D. candidate in Engineering Science at [Harvard School of Engineering and Applied Sciences](https://www.seas.harvard.edu/), fortunate to be advised by [Prof. Michael Lingzhi Li](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1432015). Prior to that, I obtained my Bachelor's degree in Statistics from the [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC), where I had the privilege of being advised by Prof. Yanran Wang and the opportunity to work with [Prof. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang). I was honored to receive the [41st Guo Moruo Scholarship](https://baike.baidu.com/item/郭沫若奖学金/3072621), the highest honor for USTC undergraduates.
 
 My research focuses on developing the foundations of next-generation artificial intelligence techniques to enhance its effectiveness and practical applications in healthcare. I am particularly interested in developing flexible diagnostic models with multi-task and multi-modal learning, aiming to improve medical assessments through the integration of various types of medical data.
 
@@ -43,9 +43,6 @@ You can reach me via email at [xiaolongluo@g.harvard.edu](mailto:xiaolongluo@g.h
 
 {% include_relative includes/extracurricular.md %}
 
-
-# 🌍 Visitors
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=433&t=tt&d=lu2aCMrgo7pZHy1HbmZHo21Lg4BollvBa-5InOmXGsk&co=84b0ce&ct=dbbfbf'></script>
 
 # 📧 Contact
 - **Email**: [xiaolongluo@g.harvard.edu](mailto:xiaolongluo@g.harvard.edu)
