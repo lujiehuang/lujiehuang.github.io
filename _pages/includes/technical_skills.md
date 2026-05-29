@@ -3,4 +3,4 @@
 - **Frameworks**: [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/), [PyG](https://pytorch-geometric.readthedocs.io/)
 - **Tools**: [Mathematica](https://www.wolfram.com/mathematica/), [LaTeX](https://www.latex-project.org/), [Git](https://git-scm.com/)
 
-Check out my [GitHub profile](https://github.com/AaronLuo00) for code and projects.
+Check out my [GitHub profile](https://github.com/lujiehuang) for code and projects.

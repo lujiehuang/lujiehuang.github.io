@@ -76,8 +76,8 @@ This is a Jekyll-based academic personal homepage built on the AcadHomepage temp
 - **Important notices**: Use colored highlight boxes for collaboration requests, job seeking, etc.
 
 ### Site Configuration Notes
-- Site title: "Xiaolong Luo | Harvard Ph.D. Student"
-- Repository: "AaronLuo00/AaronLuo00.github.io"
+- Site title: "Yufeg Zeng | 曾钰峰"
+- Repository: "lujiehuang/lujiehuang.github.io"
 - Base URL: ""
 - Google Analytics and SEO configured
 - CLAUDE.md is excluded from Jekyll processing in `_config.yml`

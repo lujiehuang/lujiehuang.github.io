@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiaolong Luo | Harvard Ph.D. Student"
-description              : ""
-repository               : "AaronLuo00/AaronLuo00.github.io"
+title                    : "Yufeg Zeng | 曾钰峰"
+description              : "Personal homepage of Yufeg Zeng"
+repository               : "lujiehuang/lujiehuang.github.io"
 baseurl                 : ""
-url                     : "https://aaronluo00.github.io"
+url                     : "https://lujiehuang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,15 +23,15 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Xiaolong Luo"
-  avatar           : "/images/profile.png"
-  bio              : "Ph.D. Student in Engineering Science at Harvard University"
-  location         : "Cambridge, Massachusetts"
-  employer         : "Harvard University"
+  name             : "Yufeg Zeng | 曾钰峰"
+  avatar           :
+  bio              : "Personal homepage"
+  location         :
+  employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Pjx2DdQAAAAJ&hl=en"
-  email            : "xiaolongluo@g.harvard.edu"
-  cv               : "assets/files/CV.pdf"
+  googlescholar    :
+  email            :
+  cv               :
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -40,13 +40,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "AaronLuo00"
+  github           : "lujiehuang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "xiaolong-luo-4a8281236"
+  linkedin         :
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -57,7 +57,7 @@ author:
   twitter          : 
   vine             :
   weibo            :
-  wechat           : "assets/files/Wechat_QRcode.JPG"
+  wechat           :
   xiaohongshu      :
   xing             :
   youtube          :
