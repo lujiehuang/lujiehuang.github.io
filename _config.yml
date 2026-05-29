@@ -11,20 +11,20 @@ description              : "Personal homepage of Yufeg Zeng"
 repository               : "lujiehuang/lujiehuang.github.io"
 baseurl                 : ""
 url                     : "https://lujiehuang.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :
 
 # SEO Related
-google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
-bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
-baidu_site_verification  : code-ZxFK3f4pfb
+google_site_verification :
+bing_site_verification   :
+baidu_site_verification  :
 
 # Site Author
 author:
   name             : "Yufeg Zeng | 曾钰峰"
-  avatar           :
+  avatar           : "https://avatars.githubusercontent.com/u/106498948?v=4"
   bio              : "Personal homepage"
   location         :
   employer         :
