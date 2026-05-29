@@ -8,7 +8,11 @@
 <meta property="og:title" content="{{ seo_title }}">
 <meta property="og:description" content="{{ site.description }}">
 {% if site.author.avatar %}
+{% if site.author.avatar contains "://" %}
+<meta property="og:image" content="{{ site.author.avatar }}">
+{% else %}
 <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/{{ site.author.avatar }}">
+{% endif %}
 {% endif %}
 
 <!-- Additional SEO meta tags -->
