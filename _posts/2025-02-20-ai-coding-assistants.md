@@ -1,42 +1,35 @@
 ---
 layout: default
-title: "What AI Coding Assistants Taught Me About Human-AI Collaboration"
+title: "What AI Learning Tools Taught Me About Human-AI Interaction"
 date: 2025-02-20
 author_profile: true
 ---
 
-# What AI Coding Assistants Taught Me About Human-AI Collaboration
+# What AI Learning Tools Taught Me About Human-AI Interaction
 
 *February 20, 2025*
 
-I recently spent a week building my academic website using AI-powered coding assistants. What started as a simple development task turned into an unexpected lesson about the dynamics of human-AI collaboration — one that directly connects to my research on clinical AI systems.
+My recent research on AI-mediated learning has made me more attentive to a simple question: when learners interact with AI systems, what exactly changes in their learning experience?
 
-## The Surprise Wasn't the Code
+The answer is rarely just "better performance." Learners also develop expectations about feedback, confidence, effort, trust, and emotional support. These factors are central to human-AI interaction because they shape whether people continue using a system, how much they rely on it, and whether the interaction actually supports learning.
 
-The AI assistant could generate React components, write CSS, and implement features faster than I could type the requirements. That part was impressive but predictable. The real surprise was how quickly I started *trusting* its output without verification.
+## Beyond Tool Accuracy
 
-By day three, I'd stopped reading the generated code line by line. By day five, I was approving changes based on whether the output "looked right" in the browser. I'd developed exactly the kind of automation complacency that I study in clinical settings.
+Many AI learning tools are evaluated by whether they produce correct answers. That is important, but it is not enough. In educational contexts, the learner's perception of the system can be just as consequential as the system's output.
 
-## The Parallel to Clinical AI
+For example, an AI tutor may provide useful feedback, but learners may still disengage if the feedback feels generic, judgmental, or difficult to act on. A virtual instructor may increase motivation for some learners while creating anxiety or distrust for others.
 
-This experience maps directly onto a well-documented problem in healthcare: **automation bias**. When AI systems are competent most of the time, human operators gradually reduce their independent verification. The system works perfectly — until it doesn't, and no one catches the error.
+## What I Want to Study
 
-In my coding context, the consequence of a missed bug is a broken website. In a clinical context, it could be a missed diagnosis.
+I am interested in empirical work that connects system design with learner experience. Some questions I hope to explore include:
 
-## Lessons for System Design
+1. How do learners calibrate trust in AI tutors and learning agents?
+2. What kinds of feedback improve engagement without increasing cognitive load?
+3. How do interface cues, persona design, and interaction style influence flow state and persistence?
+4. When does AI support learner agency, and when does it make learners dependent?
 
-The experience reinforced several principles I think about in my research:
+## Research Direction
 
-1. **Trust calibration matters more than accuracy.** A 95% accurate system that users treat as 100% accurate is more dangerous than an 85% accurate system that users verify every time.
+My current work combines educational technology, user-centered evaluation, and AI/NLP applications. I hope to keep developing this direction through behavioral experiments, surveys, and mixed-methods research on AI-supported learning systems.
 
-2. **Friction can be a feature.** The most usable system isn't always the safest. Strategic points of human verification — even when they slow things down — are essential for high-stakes applications.
-
-3. **Self-awareness is hard.** I study automation bias professionally, and I still fell into it within a week. If domain experts aren't immune, we can't rely on training alone to solve this problem.
-
-## The Takeaway
-
-Every interaction with AI tools is a micro-experiment in human-AI collaboration. Paying attention to how your own behavior changes — how trust builds, how verification drops off, how cognitive shortcuts develop — is one of the most underrated ways to build intuition for designing better AI systems.
-
----
-
-*This post grew out of a conversation with colleagues about the gap between studying human-AI interaction and experiencing it firsthand.*
+The goal is not simply to add AI to education, but to understand how people actually experience AI as part of learning.

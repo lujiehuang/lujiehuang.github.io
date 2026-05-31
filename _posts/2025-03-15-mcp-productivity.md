@@ -1,34 +1,39 @@
 ---
 layout: default
-title: "How Model Context Protocol (MCP) Is Changing AI-Powered Workflows"
+title: "Why User-Centered Evaluation Matters for AI Tutors"
 date: 2025-03-15
 author_profile: true
 ---
 
-# How Model Context Protocol (MCP) Is Changing AI-Powered Workflows
+# Why User-Centered Evaluation Matters for AI Tutors
 
 *March 15, 2025*
 
-As someone who works at the intersection of AI and real-world applications, I've been watching the Model Context Protocol (MCP) ecosystem with genuine interest. MCP represents a shift in how AI systems interact with external tools — and the implications extend well beyond developer productivity.
+AI tutors and learning agents are becoming more capable, but their educational value depends on more than technical performance. A system that can answer questions is not automatically a system that helps people learn.
 
-## What MCP Actually Does
+For me, this is where human-AI interaction becomes essential. We need to evaluate not only what the AI produces, but also how learners interpret, trust, and act on that output.
 
-At its core, MCP standardizes how language models connect to external data sources and tools. Instead of building custom integrations for every API, MCP provides a universal protocol that any AI system can use to discover and invoke tools dynamically.
+## What Should Be Measured
 
-Think of it as USB for AI — a single interface that lets models plug into databases, file systems, web services, and specialized tools without bespoke engineering for each connection.
+In educational technology research, I find the following constructs especially important:
 
-## Why This Matters for Research
+- engagement and persistence
+- flow state and attention
+- perceived usefulness and satisfaction
+- trust and trust calibration
+- anxiety, frustration, and cognitive load
+- behavioral intention and continued use
 
-For those of us working with clinical data pipelines, the appeal is obvious: AI systems that can seamlessly query medical databases, process imaging data, and cross-reference patient records — all through a standardized interface rather than fragile custom code.
+These constructs help explain why two technically similar systems may lead to very different learning experiences.
 
-The key insight is that **context is the bottleneck** for most AI applications. A model's reasoning is only as good as the information it has access to. MCP removes a major friction point in getting the right context to the right model at the right time.
+## Design Implications
 
-## The Bigger Picture
+User-centered evaluation can inform concrete design choices: how feedback is worded, how much autonomy learners retain, when the system should ask follow-up questions, and how it should communicate uncertainty.
 
-MCP is part of a broader trend toward AI systems that don't just generate text, but *act* in the world — reading files, querying databases, executing code. This is exactly the capability stack needed for trustworthy clinical AI: models that can retrieve evidence, cross-check facts, and show their work.
+For AI tutors, these details are not cosmetic. They influence whether learners feel supported, whether they over-rely on the system, and whether they can transfer what they learn beyond the interaction.
 
-I'm cautiously optimistic about where this leads. The protocol itself is open, the ecosystem is growing fast, and the potential applications in healthcare informatics are substantial.
+## Future Work
 
----
+I hope to develop studies that connect interface design, feedback design, and learner outcomes in AI-supported learning environments. This includes LLM-based tutors, virtual instructors, AI writing assistants, and assessment tools.
 
-*Interested in discussing MCP applications in healthcare? [Get in touch](mailto:xiaolongluo@g.harvard.edu).*
+The central question remains: how can AI systems become better learning partners while preserving learner agency?

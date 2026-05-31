@@ -7,7 +7,7 @@ author_profile: true
 
 # Blog
 
-Thoughts on AI, healthcare, and the space between research and practice.
+Notes on human-AI interaction, educational technology, learning agents, and research methods for evaluating AI-supported learning.
 
 ---
 
@@ -21,5 +21,5 @@ Thoughts on AI, healthcare, and the space between research and practice.
 {% endfor %}
 
 {% if site.posts.size == 0 %}
-<p>Coming soon — check back for posts on healthcare AI, research reflections, and technical insights.</p>
+<p>Coming soon — I plan to share short research notes on AI-supported learning, virtual tutors, learner engagement, and behavioral evaluation methods.</p>
 {% endif %}

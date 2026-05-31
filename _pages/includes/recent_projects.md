@@ -1,17 +1,13 @@
-<!-- # 🚀 Recent Projects
+# Recent Projects
 
-- **Interpretable Sequential MIL in Medical Imaging** (Harvard, 2023-Present)  
-  Advisor: Prof. Michael Lingzhi Li (HBS, Harvard)  
-  Enhanced the Multiple Instance Learning paradigm to handle sequential data, improving model efficiency and interpretability for medical imaging applications.
+- **GAI-Powered Virtual Influencer-Mediated Informal Learning**
+  Studied flow state and learning engagement in AI-mediated informal learning.
 
-- **Online Spike Sorting** (Harvard, 2022-2023)  
-  Advisor: Prof. Jia Liu (SEAS, Harvard)  
-  Developed a self-training algorithm integrating multiple OOD detection criteria, addressing feature shifts in spike sorting tasks.
+- **Digital Tutors and Intelligent Agent-Supported Learning**
+  Conducted bibliometric research on intelligent agent-supported language learning from 2000 to 2025.
 
-- **PET/MRI Image Super-Resolution** (Stanford & USTC, 2021-2022)  
-  Advisor: Dr. Joyce Wang (Stanford AIMI)  
-  Designed a CNN-Transformer architecture achieving ultra-low-dose PET image reconstruction while maintaining diagnostic quality.
+- **Technology and Learning Anxiety**
+  Reviewed empirical studies on how technology influences foreign language anxiety and affective learning experience.
 
-- **Learning Pruning-Friendly Networks** (UT Austin, 2021)  
-  Advisor: Prof. Zhangyang Wang (ECE, UT Austin)  
-  Created a one-shot pruning framework that enhances DNN deployment efficiency without the need for retraining. -->
+- **Prompt Interaction in AI-Assisted Writing**
+  Synthesized research on prompt engineering and AI-assisted writing across domains.

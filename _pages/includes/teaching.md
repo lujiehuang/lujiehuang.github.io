@@ -1,37 +1,14 @@
-# 👨‍🏫 Teaching
+# Teaching and Service
 
-## Head Teaching Fellow
-### AM101: Statistical Inference for Scientists and Engineers (Spring 2024)
-- Instructor: Prof. Rob Howe
-- Class size: 55 students
+## Teaching
 
-## Teaching Fellow
-### ENG-SCI 139: Innovation in Science and Engineering: Conference Course (Fall 2025)
-- Instructor: Prof. David Ricketts
-- Class size: 67 students
-- Jointly offered with Graduate School of Design as SCI 6272
+- **Teaching Assistant, College English**, National University of Defense Technology (Sept. 2024-Present)
+  Supported a public course for over 200 non-English majors; graded and recorded exams; summarized common student errors to support course improvement.
 
-### COMPSCI 1090B: Data Science 2: Advanced Topics in Data Science (Spring 2025)
-- Instructor: Prof. Pavlos Protopapas (SEAS) & Natesh Pillai (Statistics)
-- Class size: 277 students
+## Service
 
-### NEURO 240: Biological and Artificial Intelligence (Spring 2025)
-- Instructor: Prof. Gabriel Kreiman
-- Class size: 142 students
-- [Course Website](https://kreimanlab.com/courses/biological-and-artificial-intelligence/)
+- **Administrative Assistant**, Department of Foreign Languages, National University of Defense Technology (Jan. 2025-Present)
+  Supported academic records, departmental events, teaching seminars, academic lectures, and English competitions.
 
-### CS 182: Artificial Intelligence (Fall 2023)
-- Instructors: Prof. Stephanie Gil; Prof. Milind Tambe (Harvard SEAS)
-- Class size: 138 students
-
-### Stat 139: Introduction to Linear Models (Fall 2023)
-- Instructor: Prof. James Xenakis (Harvard GSAS)
-- Class size: 83 students
-
-### Probability Theory and Mathematical Statistics (Fall 2021)
-- Instructor: Prof. Canwen Hong (Applied Math, USTC)
-- Class size: 97 students
-
-### Differential Equation I (Fall 2020)
-- Instructor: Prof. Wuqing Ning (Applied Math, USTC)
-- Class size: 156 students
+- **Research Support**
+  Organized literature, research materials, and academic documentation for projects related to language intelligence, translation technology, and AI-supported learning.

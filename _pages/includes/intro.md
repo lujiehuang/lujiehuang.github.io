@@ -1,32 +1,26 @@
-I am a Ph.D. student in Engineering Science at [Harvard School of Engineering and Applied Sciences (SEAS)](https://www.seas.harvard.edu/). You can reach me via email at [xiaolongluo@g.harvard.edu](mailto:xiaolongluo@g.harvard.edu) or phone at [+1 617-909-8782](tel:+16179098782). My research focuses on developing the foundations of next-generation artificial intelligence (AI) techniques and applying them to address challenging managerial and societal problems.
+I am a master's student at the National University of Defense Technology. My research focuses on human-AI interaction, educational technology, LLM-based learning agents, and user-centered evaluation.
 
-# 🔬 Research Interests
+# Research Interests
 
-- **Theoretical Foundations of AI**: I work on the theory of [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning), [deep learning](https://en.wikipedia.org/wiki/Deep_learning), and [large foundation models](https://en.wikipedia.org/wiki/Foundation_models) through the lens of statistics and optimization. The goal is to push forward the understanding and to improve the training and inference mechanism of AI models in a principled manner.
+- **Human-AI Interaction**: user-centered evaluation of AI-mediated systems, including trust, engagement, flow, anxiety, perceived usefulness, and behavioral intention.
+- **AI Learning Agents**: LLM-based learning agents, digital tutors, virtual influencers, AI lecturers, adaptive feedback, and AI-supported learning environments.
+- **Empirical Methods**: behavioral experiment design, questionnaire construction, systematic review, bibliometric review, and user-experience measurement.
 
-- **Large Language Models Capabilities and Alignment**: I work to push the boundary of planning and reasoning capabilities while enhancing the alignment of LLMs through the way of reinforcement learning. Read more about my thoughts on AI in my [blog]({{ site.baseurl }}/blog) and [philosophy]({{ site.baseurl }}/philosophy).
+# Education
 
-# 📚 Education
-- **[Harvard University](https://www.harvard.edu/)** (2022-Present)  
-  Ph.D. in Engineering Science at [SEAS](https://www.seas.harvard.edu/)
-  
-- **[University of Science and Technology of China](https://en.ustc.edu.cn/)** (2018-2022)  
-  B.Tech. in [Statistics](http://en.sta.ustc.edu.cn/)
+- **National University of Defense Technology**, Changsha, China (2024-Present)
+  M.S. in Linguistics; research focus on Human-AI Interaction, Educational Technology, and AI-supported learning systems.
 
-# 🚀 Recent Projects
+- **Henan University**, Kaifeng, China (2020-2024)
+  B.S. in Linguistics; GPA 3.7/4.0; ranked in the top 2%; recommended for graduate study without entrance examination.
 
-- **Interpretable Sequential MIL in Medical Imaging** (Harvard, 2023-Present)  
-  Advisor: [Prof. Michael Lingzhi Li](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1069951) ([HBS](https://www.hbs.edu/), Harvard)  
-  Enhanced the Multiple Instance Learning paradigm to handle sequential data, improving model efficiency and interpretability for medical imaging applications.
+# Recent Projects
 
-- **Online Spike Sorting** (Harvard, 2022-2023)  
-  Advisor: [Prof. Jia Liu](https://jialiu.seas.harvard.edu/) ([SEAS](https://www.seas.harvard.edu/), Harvard)  
-  Developed a self-training algorithm integrating multiple OOD detection criteria, addressing feature shifts in spike sorting tasks.
+- **GAI-powered virtual influencer-mediated informal learning**
+  Studied flow state and learning engagement in AI-mediated learning settings.
 
-- **PET/MRI Image Super-Resolution** (Stanford & USTC, 2021-2022)  
-  Advisor: Dr. Joyce Wang ([Stanford AIMI](https://aimi.stanford.edu/))  
-  Designed a CNN-Transformer architecture achieving ultra-low-dose PET image reconstruction while maintaining diagnostic quality.
+- **Digital tutors and intelligent learning agents**
+  Conducted bibliometric research on intelligent agent-supported language learning.
 
-- **Learning Pruning-Friendly Networks** (UT Austin, 2021)  
-  Advisor: [Prof. Zhangyang Wang](https://vita-group.github.io/) ([ECE](https://www.ece.utexas.edu/), [UT Austin](https://www.utexas.edu/))  
-  Created a one-shot pruning framework that enhances DNN deployment efficiency without the need for retraining.
+- **Technology-mediated affective experience**
+  Reviewed empirical studies on technology and foreign language anxiety.

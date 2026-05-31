@@ -1,22 +1,23 @@
-# 📝 Publications 
-*Authors with * contributed equally.*
+# Publications
 
 ## Journal Articles
-- **AI Transformers for Radiation Dose Reduction in Serial Whole-Body PET Scans**  
-  YR Wang, L Qu, ND Sheybani, **X Luo**, J Wang, KE Hawk, AJ Theruvath, et al.  
-  *[Radiology: Artificial Intelligence](https://pubs.rsna.org/journal/ai)* (IF: 22.5), Apr. 2023; [[Link]](https://pubs.rsna.org/doi/full/10.1148/ryai.220246)
+
+- **Predicting Flow State and Learning Engagement in GAI-Powered Virtual Influencer-Mediated Informal Foreign Language Learning**
+  **Lujie Huang**, Ming Liu. *European Journal of Education*, 61(2), e70575, 2026. [doi:10.1111/ejed.70575](https://doi.org/10.1111/ejed.70575)
+
+- **The Rise of Digital Tutors: A Bibliometric Exploration of Intelligent Agent-Supported Language Learning from 2000 to 2025**
+  **Lujie Huang**, Ming Liu. *European Journal of Education*, 61(1), e70529, 2026. [doi:10.1111/ejed.70529](https://doi.org/10.1111/ejed.70529)
+
+- **The impact of technology on foreign language anxiety: A systematic review of empirical studies from 2004 to 2024**
+  **Lujie Huang**, Ming Liu. *Humanities and Social Sciences Communications*, 12, 1665, 2025. [doi:10.1057/s41599-025-05921-6](https://doi.org/10.1057/s41599-025-05921-6)
 
 ## Conference Papers
-- **Towards Interpretable, Sequential Multiple Instance Learning: An Application to Clinical Imaging**  
-  **Xiaolong Luo**, Hsin-Hsiao Scott Wang, [Michael Lingzhi Li](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1069951)  
-  *American Medical Informatics Association (AMIA)*, Nov. 2025
 
-- **Learning Pruning-Friendly Networks via Frank-Wolfe: One-Shot, Any-Sparsity, and No Retraining**  
-  [Miao Lu](https://scholar.google.com/citations?user=PcmxEmYAAAAJ)\*, **Xiaolong Luo**\*, [Tianlong Chen](https://tianlong-chen.github.io/), [Wuyang Chen](https://scholar.google.com/citations?user=dB9jxZYAAAAJ), [Dong Liu](https://scholar.google.com/citations?user=lm9LxjwAAAAJ), [Zhangyang Wang](https://vita-group.github.io/)  
-  *[International Conference on Learning Representations (ICLR)](https://iclr.cc/)*, Spotlight Presentation, Mar. 2022  
-  [[Paper]](https://openreview.net/forum?id=E_WJZh0AXyn) [[Code]](https://github.com/VITA-Group/FreeTickets)
+- **The Application of Prompt Engineering in AI-Assisted Writing: A Cross-Domain Bibliometric Literature Review (2020-2025)**
+  **Lujie Huang**, Ming Liu. ICDA 2025. [doi:10.1145/3772726.3772738](https://doi.org/10.1145/3772726.3772738)
 
-## Working Projects
+- **Advancing Computer-Assisted Language Assessment: A Bibliometric Review of Natural Language Processing and Large Language Models (2005-2025)**
+  **Lujie Huang**, Ming Liu. AICE 2025. [doi:10.1049/icp.2025.3548](https://doi.org/10.1049/icp.2025.3548)
 
-- **Healthcare AI Safety and Reliability Research**  
-  Working with the [CRITICAL dataset](https://critical.fsm.northwestern.edu/) on exciting healthcare applications. Also exploring LLM reasoning traces and addressing a fundamental challenge: when AI models are used in healthcare applications, either through single LLM calls or an agentic system, there is a strong need to fully understand when and how AI models fail, and how to fix those issues to prevent catastrophic consequences.
+- **Computational Approaches to Neural Machine Translation in Low-Resource Languages: A Bibliometric Review (2017-July 2025)**
+  **Lujie Huang**, Ming Liu. ICACTE 2025. [doi:10.1109/ICACTE66284.2025.11412017](https://doi.org/10.1109/ICACTE66284.2025.11412017)

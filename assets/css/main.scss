@@ -111,3 +111,196 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.lh-hero {
+    margin: 0 0 2rem;
+    padding: 2rem 0 1.25rem;
+    border-bottom: 1px solid #e6edf3;
+
+    h1 {
+        margin: .2rem 0 .75rem;
+        color: #172033;
+        font-size: 2.1rem;
+        line-height: 1.15;
+
+        span {
+            color: #52627a;
+            font-weight: 500;
+        }
+    }
+}
+
+.lh-kicker {
+    margin: 0;
+    color: #1b6f6a;
+    font-size: .82rem;
+    font-weight: 700;
+    letter-spacing: 0;
+    text-transform: uppercase;
+}
+
+.lh-lead {
+    max-width: 52rem;
+    color: #2d3748;
+    font-size: 1.02rem;
+    line-height: 1.72;
+}
+
+.lh-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .6rem;
+    margin-top: 1rem;
+}
+
+.lh-stat-grid,
+.lh-card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+    gap: .85rem;
+    margin: 1.25rem 0 2rem;
+}
+
+.lh-stat-grid > div,
+.lh-card,
+.lh-feature,
+.lh-list-block {
+    border: 1px solid #e6edf3;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0 8px 22px rgba(23, 32, 51, .05);
+}
+
+.lh-stat-grid > div {
+    padding: 1rem;
+
+    strong {
+        display: block;
+        color: #1f5f8b;
+        font-size: 1.45rem;
+        line-height: 1.2;
+    }
+
+    span {
+        display: block;
+        margin-top: .25rem;
+        color: #52627a;
+        font-size: .88rem;
+        line-height: 1.45;
+    }
+}
+
+.lh-card {
+    padding: 1rem;
+
+    h3 {
+        margin-top: 0;
+        margin-bottom: .45rem;
+        color: #172033;
+        font-size: 1rem;
+    }
+
+    p {
+        margin-bottom: 0;
+        color: #445066;
+        font-size: .9rem;
+        line-height: 1.6;
+    }
+}
+
+.lh-timeline {
+    margin: 1rem 0 2rem;
+    border-left: 3px solid #d9e7ef;
+}
+
+.lh-timeline-item {
+    position: relative;
+    padding: 0 0 1.1rem 1rem;
+
+    &:before {
+        content: "";
+        position: absolute;
+        top: .35rem;
+        left: -.43rem;
+        width: .7rem;
+        height: .7rem;
+        border-radius: 50%;
+        background: #1b6f6a;
+    }
+
+    h3 {
+        margin: 0 0 .15rem;
+        color: #172033;
+        font-size: 1rem;
+    }
+
+    p {
+        margin: .25rem 0;
+        color: #445066;
+        font-size: .92rem;
+        line-height: 1.55;
+    }
+}
+
+.lh-feature {
+    margin: 1rem 0;
+    padding: 1.1rem 1.2rem;
+
+    h2 {
+        margin-top: 0;
+        color: #172033;
+        font-size: 1.05rem;
+    }
+
+    p,
+    li {
+        color: #445066;
+        font-size: .92rem;
+        line-height: 1.6;
+    }
+
+    ul {
+        margin-bottom: 0;
+    }
+}
+
+.lh-feature-muted {
+    background: #f8fafc;
+}
+
+.lh-chip-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+    margin: 1rem 0 2rem;
+
+    span {
+        border: 1px solid #d8e4ea;
+        border-radius: 999px;
+        background: #f8fbfc;
+        color: #2d4d5c;
+        padding: .38rem .7rem;
+        font-size: .82rem;
+        line-height: 1.25;
+    }
+}
+
+.lh-list-block {
+    padding: 1rem 1.2rem;
+
+    p {
+        color: #445066;
+        font-size: .92rem;
+        line-height: 1.6;
+    }
+
+    p:last-child {
+        margin-bottom: 0;
+    }
+}
+
+@include breakpoint($small) {
+    .lh-hero h1 {
+        font-size: 2.5rem;
+    }
+}

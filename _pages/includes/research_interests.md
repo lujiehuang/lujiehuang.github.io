@@ -1,5 +1,6 @@
-# 🔬 Research Interests
+# Research Interests
 
-- **Flexible Diagnostic Models with Multi-task and Multi-modal Learning**: I work on developing advanced AI models that can simultaneously handle multiple diagnostic tasks while effectively integrating various types of medical data (imaging, clinical notes, lab results) to provide more comprehensive and accurate medical assessments.
-
-- **Evaluating and Enhancing LLM Reasoning in Real-World Medical Settings**: I work on developing evaluation frameworks and benchmarks to assess and improve how large language models reason over complex, temporally extended medical data. My goal is to enhance their fidelity, calibration, and robustness, ultimately enabling trustworthy and generalizable clinical AI systems.
+- **Human-AI Interaction**: user-centered evaluation of AI-mediated systems, including trust, engagement, flow, perceived usefulness, anxiety, and technology acceptance.
+- **AI Learning Agents**: LLM-based learning agents, digital tutors, virtual influencers, AI lecturers, adaptive feedback, and AI-supported learning environments.
+- **Behavioral and Empirical Methods**: behavioral experiment design, questionnaire construction, systematic review, bibliometric review, and user-experience measurement.
+- **AI/NLP Systems**: prompt interaction, AI-assisted writing, NLP/LLM-based assessment, neural machine translation, and low-resource language technology.

@@ -1,27 +1,16 @@
-# 💻 Technical Skills
-- **Programming Languages**: C, Python, R, HTML, React, Javascript, Typescript
-- **Frameworks**: PyTorch, TensorFlow, PyG
-- **Tools**: Mathematica, LaTeX, Git
-- **Languages**: English (TOEFL 100, Speaking: 23)
+# Technical Skills
 
-# 🌟 Extracurricular Activities
-- **Harvard GSAS Entrepreneur Club** (2022-2023)  
-  Co-director of the AI Community, leading initiatives to foster entrepreneurship and AI-focused projects
+- **Research methods**: behavioral experiment design, survey/questionnaire design, systematic review, bibliometric review, user-centered evaluation.
+- **Evaluation constructs**: engagement, flow, anxiety, trust, perceived usefulness, satisfaction, behavioral intention, technology acceptance.
+- **AI/NLP domains**: LLM-based learning agents, digital tutors, prompt engineering, AI-assisted writing, NLP-based assessment, neural machine translation.
+- **Tools**: LaTeX, Git, Python, R, Markdown, academic databases, bibliometric analysis tools.
 
-- **FutureX** (2022-2023)  
-  Founding member of a web3 community, secured pre-seed funding
+# Links
 
-- **Columbia Young Development Program** (2019)  
-  Led a team to win a business plan competition after completing courses in business analytics and machine learning
+- **GitHub**: [lujiehuang](https://github.com/lujiehuang)
+- **ORCID**: [0009-0000-2703-7442](https://orcid.org/0009-0000-2703-7442)
 
-- **Student Union of USTC** (2018-2020)  
-  Participated in organizing student events and representing student interests
+# Contact
 
-# 🔗 Links
-- [Google Scholar](https://scholar.google.com/citations?user=Pjx2DdQAAAAJ&hl=en)
-- [GitHub](https://github.com/lujiehuang)
-
-# 📧 Contact
-- **Email**: [xiaolongluo@g.harvard.edu](mailto:xiaolongluo@g.harvard.edu)
-- **Phone**: [+1 617-909-8782](tel:+16179098782)
-- **Address**: Harvard School of Engineering and Applied Sciences, Cambridge, MA, USA
+- **Email**: [huanglujie.24@nudt.edu.cn](mailto:huanglujie.24@nudt.edu.cn)
+- **Address**: National University of Defense Technology, Changsha, China
