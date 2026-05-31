@@ -154,6 +154,7 @@
   position: relative;
   margin-left: auto;
   cursor: pointer;
+  max-width: 100%;
 
   li:last-child {
     a {
@@ -188,6 +189,7 @@
   z-index: -1;
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
+  max-width: 100%;
 
   @include breakpoint($large) {
     display: block;
@@ -234,7 +236,9 @@
   }
 
   li {
-    white-space: nowrap;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    word-break: normal;
   }
 
   a {
@@ -246,6 +250,7 @@
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
+    overflow-wrap: anywhere;
 
     &:hover {
       text-decoration: underline;
