@@ -1,128 +1,76 @@
 ---
 permalink: /portfolio/
-title: "AI Engineering Portfolio"
-author_profile: true
+title: ""
+author_profile: false
 ---
 
-# AI Engineering & Human-Centered AI Portfolio
+<div class="pf-wrap">
 
-I build research prototypes and engineering systems at the intersection of **Human-AI Interaction, Machine Learning, LLM Systems, Data Engineering, and Agentic Workflows**.
+<section class="pf-intro">
+  <p class="pf-eyebrow">Selected engineering work · 2026</p>
+  <h1>Research ideas,<br><em>built into systems.</em></h1>
+  <p class="pf-deck">
+    I work on Human–AI interaction and build small, testable systems around the questions I study.
+    The projects below cover interactive AI, machine learning, retrieval pipelines, and agent orchestration.
+  </p>
+  <div class="pf-links">
+    <a href="https://github.com/lujiehuang">GitHub</a>
+    <a href="{{ site.baseurl }}/files/Lujie_Huang_CV.pdf">CV</a>
+    <a href="{{ site.baseurl }}/">Academic profile</a>
+  </div>
+</section>
 
-My research background is in human-AI interaction and quantitative evaluation. This portfolio documents the engineering side of that work: turning research questions into runnable systems, APIs, pipelines, tests, and reproducible demos.
+<section class="pf-grid">
+  <a class="pf-tile pf-tile--wide" href="https://lujiehuang.github.io/ReflectAI/">
+    <div class="pf-thumb"><img src="{{ site.baseurl }}/assets/images/portfolio/reflectai.svg" alt="ReflectAI interface preview"></div>
+    <div class="pf-copy">
+      <span class="pf-no">01</span>
+      <h2>ReflectAI</h2>
+      <p>Adaptive reflection for Human–LLM collaboration.</p>
+      <span class="pf-meta">HCI · LLM integration · experiment logging</span>
+    </div>
+  </a>
 
----
+  <a class="pf-tile" href="https://github.com/lujiehuang/RelianceML">
+    <div class="pf-thumb"><img src="{{ site.baseurl }}/assets/images/portfolio/relianceml.svg" alt="RelianceML pipeline diagram"></div>
+    <div class="pf-copy">
+      <span class="pf-no">02</span>
+      <h2>RelianceML</h2>
+      <p>A trainable pipeline for behavioral reliance prediction.</p>
+      <span class="pf-meta">scikit-learn · FastAPI · evaluation</span>
+    </div>
+  </a>
 
-## 1. ReflectAI
-### Adaptive reflection for Human-LLM collaboration
+  <a class="pf-tile" href="https://github.com/lujiehuang/ScholarFlow">
+    <div class="pf-thumb"><img src="{{ site.baseurl }}/assets/images/portfolio/scholarflow.svg" alt="ScholarFlow pipeline diagram"></div>
+    <div class="pf-copy">
+      <span class="pf-no">03</span>
+      <h2>ScholarFlow</h2>
+      <p>Literature ETL, semantic retrieval, and RAG-ready context.</p>
+      <span class="pf-meta">SQLite · retrieval · FastAPI</span>
+    </div>
+  </a>
 
-**Focus:** HCI · Human-Centered AI · LLM integration · adaptive interfaces · experiment logging
+  <a class="pf-tile pf-tile--wide" href="https://github.com/lujiehuang/AgentLab">
+    <div class="pf-thumb"><img src="{{ site.baseurl }}/assets/images/portfolio/agentlab.svg" alt="AgentLab state machine diagram"></div>
+    <div class="pf-copy">
+      <span class="pf-no">04</span>
+      <h2>AgentLab</h2>
+      <p>A tool-using research agent with explicit state, retry, and logs.</p>
+      <span class="pf-meta">tool calling · orchestration · failure recovery</span>
+    </div>
+  </a>
+</section>
 
-ReflectAI is an interactive research prototype for studying whether an interface can detect possible over-reliance on LLM output and introduce reflection without taking agency away from the user.
+<section class="pf-notes">
+  <div>
+    <span class="pf-label">What I care about</span>
+    <p>Calibrated reliance, user control, reflective interaction, and AI systems that remain inspectable when they fail.</p>
+  </div>
+  <div>
+    <span class="pf-label">How I work</span>
+    <p>Prototype the interaction, instrument behavior, test the pipeline, and keep the evaluation tied to the research question.</p>
+  </div>
+</section>
 
-**Engineering highlights**
-- Streamlit application with three experimental conditions: Baseline, Static Reflection, and Adaptive Reflection
-- OpenAI-compatible LLM adapter with local fallback
-- transparent reliance-risk logic using response latency, revision behavior, and user action
-- adaptive reflection trigger
-- structured interaction logging and condition-level dashboard
-- unit tests and GitHub Actions CI
-- browser-based live demo
-
-[Live Demo](https://lujiehuang.github.io/ReflectAI/) · [GitHub](https://github.com/lujiehuang/ReflectAI)
-
----
-
-## 2. RelianceML
-### Behavioral over-reliance prediction pipeline
-
-**Focus:** Machine Learning · feature engineering · model evaluation · FastAPI
-
-RelianceML extends the ReflectAI idea from a hand-crafted heuristic toward a trainable prediction pipeline.
-
-**Engineering highlights**
-- reproducible synthetic interaction-data generator for controlled prototyping
-- feature engineering from behavioral traces
-- Logistic Regression and Random Forest baselines
-- ROC-AUC, F1, precision, recall, and accuracy evaluation
-- serialized model artifacts
-- typed FastAPI inference endpoint
-- CI pipeline covering training and API smoke tests
-
-The current dataset is explicitly synthetic and is used only to demonstrate the engineering workflow; it is not presented as empirical evidence about human behavior.
-
-[GitHub](https://github.com/lujiehuang/RelianceML)
-
----
-
-## 3. ScholarFlow
-### Literature ETL, semantic retrieval, and RAG pipeline
-
-**Focus:** Data Engineering · ETL · SQLite · semantic search · RAG · APIs
-
-ScholarFlow demonstrates an end-to-end scholarly-data workflow from normalized literature records to semantic retrieval and RAG-ready context generation.
-
-**Engineering highlights**
-- schema normalization and deterministic deduplication
-- SQLite persistence layer
-- local semantic retrieval backend
-- RAG context builder
-- FastAPI search service
-- modular separation of ingestion, storage, retrieval, and serving
-- unit tests and CI-ready structure
-
-[GitHub](https://github.com/lujiehuang/ScholarFlow)
-
----
-
-## 4. AgentLab
-### Tool-using research agent with retry and state management
-
-**Focus:** LLM agents · tool calling · workflow orchestration · reliability · observability
-
-AgentLab is a deterministic research-agent prototype designed to make orchestration logic inspectable and testable.
-
-**Engineering highlights**
-- explicit PLAN / ACT / OBSERVE / RETRY / DONE state model
-- tool registry and structured tool calls
-- transient-failure injection and automatic retry
-- structured step logs
-- reproducible offline tool layer
-- FastAPI serving
-- unit tests and CI smoke testing
-
-[GitHub](https://github.com/lujiehuang/AgentLab)
-
----
-
-## Engineering capability map
-
-| Capability | Evidence |
-|---|---|
-| Human-centered interactive systems | ReflectAI |
-| LLM integration and adaptive behavior | ReflectAI |
-| ML training and evaluation | RelianceML |
-| Prediction API design | RelianceML |
-| ETL and persistent storage | ScholarFlow |
-| Semantic retrieval and RAG context construction | ScholarFlow |
-| Tool calling and state management | AgentLab |
-| Retry and failure recovery | AgentLab |
-| Testing and CI | All four projects |
-
----
-
-## Technical stack
-
-**Languages & analysis:** Python, SQL, quantitative research workflows  
-**ML & data:** pandas, scikit-learn, feature engineering, model evaluation, SQLite  
-**AI systems:** LLM APIs, semantic retrieval, RAG pipelines, tool-using agents  
-**Applications & APIs:** Streamlit, FastAPI  
-**Engineering practice:** modular architecture, structured logging, unit testing, CI, reproducible workflows  
-**Research evaluation:** controlled experimental design, behavioral logging, SEM, fsQCA, NCA
-
----
-
-## Research direction
-
-I am particularly interested in building and evaluating AI systems that support **calibrated reliance, user control, reflective interaction, trustworthy human-AI collaboration, and adaptive intervention**.
-
-My longer-term goal is to connect technical system design with rigorous user evaluation: not only asking whether an AI system works, but also **how people rely on it, when intervention is useful, and how interfaces can preserve human agency**.
+</div>
