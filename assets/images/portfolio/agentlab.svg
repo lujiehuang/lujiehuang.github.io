@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+<rect width="1200" height="720" fill="#edf0ee"/>
+<text x="80" y="100" font-family="Georgia,serif" font-size="48" fill="#1e2420">AgentLab</text>
+<text x="80" y="140" font-family="Arial,sans-serif" font-size="18" fill="#626965">Tool orchestration · state · retry</text>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<circle cx="180" cy="360" r="75" fill="#fff" stroke="#cad0cc" stroke-width="2"/><text x="180" y="367" font-size="21" fill="#202420">PLAN</text>
+<circle cx="430" cy="360" r="75" fill="#fff" stroke="#cad0cc" stroke-width="2"/><text x="430" y="367" font-size="21" fill="#202420">ACT</text>
+<circle cx="680" cy="360" r="75" fill="#fff" stroke="#cad0cc" stroke-width="2"/><text x="680" y="367" font-size="21" fill="#202420">OBSERVE</text>
+<circle cx="930" cy="360" r="75" fill="#1e2420"/><text x="930" y="367" font-size="21" fill="#fff">DONE</text>
+<path d="M255 360 H350 M505 360 H600 M755 360 H850" stroke="#6f7772" stroke-width="4"/>
+<path d="M680 285 C680 200 430 200 430 285" fill="none" stroke="#9b6f54" stroke-width="4" stroke-dasharray="10 9"/>
+<text x="555" y="205" font-size="17" fill="#875f49">RETRY</text>
+</g>
+</svg>
