@@ -12,7 +12,7 @@ main:
   - title: 'Experience'
     url: '/#experience'
 
-  - title: 'Portfolio'
+  - title: 'Projects'
     url: '/portfolio/'
 
   - title: 'CV'
