@@ -12,6 +12,9 @@ main:
   - title: 'Experience'
     url: '/#experience'
 
+  - title: 'Portfolio'
+    url: '/portfolio/'
+
   - title: 'CV'
     url: '/files/Lujie_Huang_CV.pdf'
 
