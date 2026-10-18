@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+<rect width="1200" height="720" fill="#f5f1ea"/>
+<rect x="70" y="70" width="1060" height="580" rx="28" fill="#fffdf9" stroke="#d7d0c5" stroke-width="2"/>
+<rect x="110" y="115" width="220" height="490" rx="18" fill="#f0ebe3"/>
+<text x="145" y="175" font-family="Georgia,serif" font-size="38" fill="#1d1d1f">ReflectAI</text>
+<text x="145" y="215" font-family="Arial,sans-serif" font-size="18" fill="#6b665f">Adaptive reflection</text>
+<rect x="145" y="270" width="150" height="46" rx="23" fill="#1d1d1f"/>
+<text x="179" y="300" font-family="Arial,sans-serif" font-size="17" fill="white">Adaptive</text>
+<rect x="370" y="115" width="710" height="180" rx="18" fill="#ffffff" stroke="#ded7cd"/>
+<text x="405" y="165" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#1d1d1f">AI response</text>
+<text x="405" y="210" font-family="Arial,sans-serif" font-size="18" fill="#45423e">Compare funding, supervision, training quality,</text>
+<text x="405" y="240" font-family="Arial,sans-serif" font-size="18" fill="#45423e">and long-term fit before deciding.</text>
+<rect x="370" y="330" width="330" height="245" rx="18" fill="#ffffff" stroke="#ded7cd"/>
+<text x="405" y="378" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#1d1d1f">Decision</text>
+<rect x="405" y="420" width="90" height="38" rx="19" fill="#ece7df"/>
+<text x="426" y="445" font-family="Arial,sans-serif" font-size="15" fill="#1d1d1f">Accept</text>
+<rect x="515" y="420" width="90" height="38" rx="19" fill="#ece7df"/>
+<text x="538" y="445" font-family="Arial,sans-serif" font-size="15" fill="#1d1d1f">Revise</text>
+<rect x="720" y="330" width="360" height="245" rx="18" fill="#fff7e8" stroke="#e6c98f"/>
+<text x="755" y="378" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#7b5b20">Reflection trigger</text>
+<text x="755" y="420" font-family="Arial,sans-serif" font-size="17" fill="#5c5143">What assumption might be wrong?</text>
+<text x="755" y="454" font-family="Arial,sans-serif" font-size="17" fill="#5c5143">What evidence would change your mind?</text>
+</svg>
