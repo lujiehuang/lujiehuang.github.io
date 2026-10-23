@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760">
+<rect width="1600" height="760" fill="#f6f2ea"/>
+<text x="70" y="65" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#6b625a">BEFORE</text>
+<text x="845" y="65" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#9a4d2c">AFTER</text>
+<text x="70" y="105" font-family="Arial,sans-serif" font-size="22" fill="#6b625a">Default Matplotlib</text>
+<text x="845" y="105" font-family="Arial,sans-serif" font-size="22" fill="#6b625a">Publication-ready preset</text>
+
+<!-- Before panel -->
+<rect x="70" y="140" width="680" height="540" fill="#ffffff" stroke="#d8d1c8"/>
+<text x="250" y="185" font-family="Arial,sans-serif" font-size="25" fill="#111">Performance Comparison</text>
+<line x1="155" y1="590" x2="690" y2="590" stroke="#111" stroke-width="2"/>
+<line x1="155" y1="220" x2="155" y2="590" stroke="#111" stroke-width="2"/>
+<g stroke="#c5c5c5" stroke-width="1">
+<line x1="155" y1="520" x2="690" y2="520"/><line x1="155" y1="450" x2="690" y2="450"/>
+<line x1="155" y1="380" x2="690" y2="380"/><line x1="155" y1="310" x2="690" y2="310"/>
+</g>
+<polyline points="180,505 275,420 370,355 465,305 560,275 655,255" fill="none" stroke="#1f77b4" stroke-width="4"/>
+<polyline points="180,530 275,455 370,395 465,345 560,315 655,290" fill="none" stroke="#ff7f0e" stroke-width="4"/>
+<g fill="#1f77b4"><circle cx="180" cy="505" r="7"/><circle cx="275" cy="420" r="7"/><circle cx="370" cy="355" r="7"/><circle cx="465" cy="305" r="7"/><circle cx="560" cy="275" r="7"/><circle cx="655" cy="255" r="7"/></g>
+<g fill="#ff7f0e"><rect x="173" y="523" width="14" height="14"/><rect x="268" y="448" width="14" height="14"/><rect x="363" y="388" width="14" height="14"/><rect x="458" y="338" width="14" height="14"/><rect x="553" y="308" width="14" height="14"/><rect x="648" y="283" width="14" height="14"/></g>
+<rect x="520" y="205" width="150" height="74" fill="#ffffff" stroke="#333"/>
+<line x1="535" y1="227" x2="575" y2="227" stroke="#1f77b4" stroke-width="4"/><text x="585" y="233" font-family="Arial" font-size="18">Model A</text>
+<line x1="535" y1="257" x2="575" y2="257" stroke="#ff7f0e" stroke-width="4"/><text x="585" y="263" font-family="Arial" font-size="18">Model B</text>
+<text x="350" y="640" font-family="Arial" font-size="20">Training Round</text>
+<text x="92" y="415" transform="rotate(-90 92 415)" font-family="Arial" font-size="20">Score</text>
+
+<!-- After panel -->
+<rect x="845" y="140" width="680" height="540" fill="#ffffff" stroke="#d8d1c8"/>
+<line x1="935" y1="590" x2="1460" y2="590" stroke="#333" stroke-width="1.5"/>
+<line x1="935" y1="220" x2="935" y2="590" stroke="#333" stroke-width="1.5"/>
+<g stroke="#cfcfcf" stroke-width="1" opacity="0.45">
+<line x1="935" y1="520" x2="1460" y2="520"/><line x1="935" y1="450" x2="1460" y2="450"/>
+<line x1="935" y1="380" x2="1460" y2="380"/><line x1="935" y1="310" x2="1460" y2="310"/>
+</g>
+<polyline points="960,505 1055,420 1150,355 1245,305 1340,275 1435,255" fill="none" stroke="#3b6ea8" stroke-width="3"/>
+<polyline points="960,530 1055,455 1150,395 1245,345 1340,315 1435,290" fill="none" stroke="#9a4d2c" stroke-width="3" stroke-dasharray="10 7"/>
+<g fill="#3b6ea8"><circle cx="960" cy="505" r="5"/><circle cx="1055" cy="420" r="5"/><circle cx="1150" cy="355" r="5"/><circle cx="1245" cy="305" r="5"/><circle cx="1340" cy="275" r="5"/><circle cx="1435" cy="255" r="5"/></g>
+<g fill="#9a4d2c"><rect x="955" y="525" width="10" height="10"/><rect x="1050" y="450" width="10" height="10"/><rect x="1145" y="390" width="10" height="10"/><rect x="1240" y="340" width="10" height="10"/><rect x="1335" y="310" width="10" height="10"/><rect x="1430" y="285" width="10" height="10"/></g>
+<text x="1150" y="640" font-family="Arial" font-size="18">Training round</text>
+<text x="875" y="415" transform="rotate(-90 875 415)" font-family="Arial" font-size="18">Score</text>
+<line x1="1250" y1="535" x2="1290" y2="535" stroke="#3b6ea8" stroke-width="3"/><text x="1300" y="541" font-family="Arial" font-size="17">Model A</text>
+<line x1="1250" y1="565" x2="1290" y2="565" stroke="#9a4d2c" stroke-width="3" stroke-dasharray="10 7"/><text x="1300" y="571" font-family="Arial" font-size="17">Model B</text>
+
+<text x="70" y="725" font-family="Georgia,serif" font-size="24" fill="#3f3933">Same data. Same conclusion. Better typography, spacing, grayscale safety and export settings.</text>
+</svg>
