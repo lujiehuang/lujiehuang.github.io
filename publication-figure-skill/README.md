@@ -2,7 +2,13 @@
 
 Turn Matplotlib figures into clean, publication-ready academic graphics.
 
+<p align="center"><img src="assets/before-after.svg" alt="Before and after publication figure comparison" width="100%"></p>
+
 This is a deliberately small research-graphics skill. It does one thing: take an existing Matplotlib figure or plotting script and improve it for journal or conference use without changing the underlying data or statistical meaning.
+
+## Before / after
+
+Same data and same conclusion. The right-hand version changes only presentation: final-column sizing, typography, legend treatment, line/marker hierarchy, grayscale readability, and export settings.
 
 ## What it fixes
 
